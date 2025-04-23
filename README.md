@@ -7,3 +7,7 @@ I have made a note for NumPy in Jupyter Notebook. It contains some important top
 3. Why use Numpy?
 4. Numpy Arrays and their operations
 5. Example of Real-life Scenario 
+
+### Source:
+<br>
+#### pycode.hubb: [Instagram](https://www.instagram.com/pycode.hubb/)
